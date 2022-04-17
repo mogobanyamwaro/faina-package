@@ -1,0 +1,22 @@
+{
+  "name": "faina-for-test",
+  "version": "1.0.0",
+  "description": "is the string faina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogobanyamwaro/faina-package.git"
+  },
+  "keywords": [
+    "faian"
+  ],
+  "author": "faina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mogobanyamwaro/faina-package/issues"
+  },
+  "homepage": "https://github.com/mogobanyamwaro/faina-package#readme"
+}
